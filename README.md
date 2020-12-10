@@ -1,2 +1,3 @@
-# curso_github
- Repositório do curso de GitHub do Curso em Vídeo
+# Curso de GitHub
+ 
+ Repositório do curso de Git e GitHub do Curso em Vídeo.
