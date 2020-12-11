@@ -17,4 +17,4 @@
  12. Git Branches de forma fácil e com exemplo
  13. Hospedagem grátis no GitHub Pages
 
- ![Avatar](avatar-github-menor)
+ ![](https://github.com/gaabemonteiro/curso-github/blob/main/avatar-github-menor.png)
