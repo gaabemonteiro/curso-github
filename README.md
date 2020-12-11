@@ -16,5 +16,3 @@
  11. Seu GitHub muito mais seguro
  12. Git Branches de forma fácil e com exemplo
  13. Hospedagem grátis no GitHub Pages
- 
-https://pixabay.com/pt/illustrations/logotipo-%C3%ADcone-github-github-2582757/
