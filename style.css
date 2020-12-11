@@ -1,0 +1,145 @@
+.navbar {
+    background-color: white;
+    padding: 10px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.navbar a:hover {
+    color: rgb(235, 225, 207);
+}
+
+p > a {
+    text-decoration: none;
+}
+
+p > a:hover {
+    color: #e8b875;
+}
+
+p {
+    padding: 10px;
+    justify-content: justify;
+}
+
+.introducao {
+    font-family: Arial;
+    font-size: 20px;
+    padding: 10px;
+    text-align: justify;
+}
+
+.profile img {
+    border-radius: 50%;
+    margin-left: 125px;
+    width: 60%;
+}
+
+button {
+    width: 170px;
+    height: 63px;
+    background-color: #e8b875;
+    border-radius: 15px;
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+button a:hover {
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    padding: 10px;
+}
+
+#contato {
+    width: 100%;
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+i {
+    font-size: 40px;
+    padding: 5px;
+}
+
+#contato a:hover {
+    color: #e8b875;
+}
+
+#tecnologias {
+    text-align: center;
+}
+
+.fa-html5 {
+    color: orange;
+}
+
+.fa-css3-alt {
+    color: blue;
+}
+
+.fa-bootstrap {
+    color: blueviolet;
+}
+
+.fa-js-square {
+    color: rgb(235, 235, 51);
+}
+
+.tech {
+    background-color: white;
+    border: none;
+    width: 80px;
+}
+
+.tech:hover {
+    color: #e8b875;
+}
+
+html {
+    height: 100%;
+}
+
+@media screen and (max-width: 400px) {
+    .navbar {
+        background-color: white;
+        display: inline-flex !important;
+    }
+    
+    .navbar a {
+        text-decoration: none;
+        color: black;
+        font-size: 18px;
+    }
+
+    .profile img {
+        margin: 0px;
+        width: 100%;
+    }
+
+    i .fa-envelope-square {
+        font-size: 15px;
+    }
+
+    #tecnologias {
+        padding: 10px;
+    }
+
+    p {
+        text-align: justify;
+    }
+}
