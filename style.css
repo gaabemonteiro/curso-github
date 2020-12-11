@@ -114,7 +114,7 @@ html {
     height: 100%;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 450px) {
     .navbar {
         background-color: white;
         display: inline-flex !important;
