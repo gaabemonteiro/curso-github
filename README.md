@@ -16,3 +16,5 @@
  11. Seu GitHub muito mais seguro
  12. Git Branches de forma fácil e com exemplo
  13. Hospedagem grátis no GitHub Pages
+
+ <img src="avatar-github-menor">
